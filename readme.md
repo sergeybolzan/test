@@ -3,3 +3,5 @@ along the x-axis - puzzles;
 along the y-axis - times.
 Each color corresponds to a specific user.
 ![Diagram](visualization-variants/diagram.png)
+
+asdasdasd
